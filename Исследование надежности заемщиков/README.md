@@ -2,7 +2,8 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/made%20by-LLIax90-blue.svg" >  
+<img src="https://img.shields.io/badge/made%20by-LLIax90-blue.svg" >
+
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ## Данные:
